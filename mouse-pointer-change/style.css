@@ -1,0 +1,11 @@
+span.crosshair {
+    cursor: crosshair;
+}
+
+span.help {
+    cursor: help;
+}
+
+span.wait {
+    cursor: wait;
+} 

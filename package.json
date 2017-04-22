@@ -1,0 +1,34 @@
+{
+  "name": "mouse-pointer-change",
+  "version": "1.0.0",
+  "description": "mouse effects on selected item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPurno/mouse-pointer-change.git"
+  },
+  "keywords": [
+    "Mouse",
+    "pointer",
+    "selection",
+    "mouse",
+    "point",
+    "in",
+    "different",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cs\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Din\u001b[D",
+    "\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cin",
+    "different",
+    "selected",
+    "item"
+  ],
+  "author": "Faruk Ahmed Any",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPurno/mouse-pointer-change/issues"
+  },
+  "homepage": "https://github.com/SPurno/mouse-pointer-change#readme"
+}
